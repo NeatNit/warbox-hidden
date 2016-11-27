@@ -1,0 +1,6 @@
+"warboxhidden"
+{
+	"base"	"sandbox"
+	"title"	"Warbox: Hidden"
+	"menusystem"	"1"
+}
