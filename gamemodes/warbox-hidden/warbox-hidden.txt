@@ -1,4 +1,4 @@
-"warboxhidden"
+"warbox-hidden"
 {
 	"base"	"sandbox"
 	"title"	"Warbox: Hidden"
